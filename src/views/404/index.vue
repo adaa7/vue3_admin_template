@@ -3,9 +3,7 @@
 </script>
 
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+  <h1>404</h1>
 </template>
 
 <style lang='less' scoped></style>
